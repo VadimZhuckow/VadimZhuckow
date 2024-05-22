@@ -1,7 +1,7 @@
 ## Hey, what's up 👋
 - 😎 I'm a digital nomad, learn Python
 - I'm trying to gradually increase my rank on codewars
-- 
+
  ![](https://www.codewars.com/users/VadimZhuckow/badges/large)
 
 
