@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey, what's up 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimZhuckow&show_icons=true&theme=tokyonight)
 <!--
 **VadimZhuckow/VadimZhuckow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
