@@ -10,4 +10,4 @@
 
 
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/VadimZhuckow)
+![](https://www.codewars.com/users/username/badges/large)(https://www.codewars.com/users/VadimZhuckow)
