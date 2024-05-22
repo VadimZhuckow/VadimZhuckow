@@ -9,5 +9,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VadimZhuckow&theme=tokyonight)
 
 
-
+- I'm trying to gradually increase my rank on codewars😎
 ![](https://www.codewars.com/users/VadimZhuckow/badges/large)
