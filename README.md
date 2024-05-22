@@ -7,3 +7,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VadimZhuckow&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadimZhuckow&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VadimZhuckow&theme=tokyonight)
+
+
+
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/VadimZhuckow)
